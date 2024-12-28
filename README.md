@@ -55,13 +55,13 @@ W W W W W W W W W W W
 
 2. You will then be asked for a start point and end point. The possible points will depend on the maze size. Don't put the same start and end point.
 
-> Note: Current Player Position is denoted by
+> **Note**: Current Player Position is denoted by
 
 ```console
 $ O
 ```
 
-> Note: End Position is denoted by
+> **Note**: End Position is denoted by
 
 ```console
 $ X
@@ -89,7 +89,7 @@ $ X
 20 21 22 23 24
 </pre>
 
-> Note: If you put the same start and end point, the game will still be playable. However, you won't be able to see where the end point is.
+> **Note**: If you put the same start and end point, the game will still be playable. However, you won't be able to see where the end point is.
 
 3. After giving your start and end points. The game starts. You will be told what available directions you can go to. The only valid directions are North, South, East, and West. You will be told to choose a valid and available direction if the direction you typed is not in the choices.
 
