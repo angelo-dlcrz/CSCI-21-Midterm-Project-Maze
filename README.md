@@ -58,13 +58,13 @@ W W W W W W W W W W W
 > **Note**: Current Player Position is denoted by
 
 ```console
-$ O
+O
 ```
 
 > **Note**: End Position is denoted by
 
 ```console
-$ X
+X
 ```
 
 ### Level 1: 3x3 Maze | Choose a point from 0-8
